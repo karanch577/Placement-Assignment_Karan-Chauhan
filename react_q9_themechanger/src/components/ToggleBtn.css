@@ -1,0 +1,17 @@
+.icon {
+    font-size: 1.5rem;
+    display: flex;
+    width: 60px;
+    border-radius: 8px;
+    overflow: hidden;
+    position: absolute;
+    top: 40px;
+    right: 40px;
+    padding: 3px;
+    justify-content: space-evenly;
+}
+
+.dark, .light {
+    padding: 2px 5px;
+}
+
